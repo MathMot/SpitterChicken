@@ -1,0 +1,10 @@
+{
+  "name": "SpitterChicken",
+  "author": "MathMoth",
+  "version_number": "1.0.0",
+  "website_url": "",
+  "description": "cot cot cot.... COT COOOT",
+  "dependencies": [
+    "BepInEx-BepInExPack_GTFO-3.2.2"
+  ]
+}
